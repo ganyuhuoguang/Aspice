@@ -1,9 +1,9 @@
 Aspice
 ======
-Aspice is motion detection app for Raspberry Pi Camera. It allows you to use RPi as surveillance system to capture images based on movement in camera area.
+<b>Aspice</b> is motion detection app for Raspberry Pi Camera. It allows you to use RPi as surveillance system to capture images based on movement in camera area.
 
 
-Installation
+<b>Installation</b>
 
 1. Open terminal on your RPi and install PIL to run this script.
    sudo apt-get install python-imaging-tk
@@ -19,7 +19,7 @@ Installation
 
 The script is now running and taking pictures
 
-Options
+<b>Options</b>
 
 Adjust the settings of the script. Open Nano editor in terminal by typing:
 
@@ -27,7 +27,7 @@ nano ~/aspice.py
 
 Now you can change settings of each feature, for example sending pictures to e-mail and adjust motion sensitivity.
 
-Next up
+<b>Next up</b>
 
 Aspice is a work in progress. This is a beta release. There are a few things coming up:
 
