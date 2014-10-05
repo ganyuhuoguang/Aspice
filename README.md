@@ -6,16 +6,20 @@ Aspice
 <b>Installation</b>
 
 1. Open terminal on your RPi and install PIL to run this script.
-   sudo apt-get install python-imaging-tk
+
+  <code> sudo apt-get install python-imaging-tk </code>
 
 2. Make the script executeable by typing:
-   chmod +x ~/aspice.py
+   
+	chmod +x ~/aspice.py
 
 3. You will need to create the folder to store your pictures:
-   mkdir ~/aspice
+   
+	mkdir ~/aspice
 
 4. Start the script by typing in Terminal:
-   ~/aspice.py
+  
+	 ~/aspice.py
 
 The script is now running and taking pictures
 
