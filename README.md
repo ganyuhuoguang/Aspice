@@ -27,7 +27,7 @@ The script is now running and taking pictures
 
 Adjust the settings of the script. Open Nano editor in terminal by typing:
 
-  <code>nano ~/aspice.py</code>
+  <code> nano ~/aspice.py </code>
 
 Now you can change settings of each feature, for example sending pictures to e-mail and adjust motion sensitivity.
 
@@ -35,6 +35,6 @@ Now you can change settings of each feature, for example sending pictures to e-m
 
 Aspice is a work in progress. This is a beta release. There are a few things coming up:
 
-<ul>Live streaming option</ul>
+<li>Live streaming option</li>
 
-<ul>Surveillance system</ul>
+<li>Surveillance system</li>
